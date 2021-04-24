@@ -1,4 +1,4 @@
-# likeOrigin
+# OriginPage UI
 Trying to design home page like origin website
 
 Technologies:
